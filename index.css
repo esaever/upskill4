@@ -1,0 +1,35 @@
+body{
+     display: flex ;
+     justify-content:center ;
+     background-color: brown 
+}
+.maincontainer{background-color: pink;
+margin-top: 5%;
+align-items: center;
+width:30%;
+height: 70%;
+}
+.container{
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ text-align: center;
+flex-direction: column;
+}
+.paradise{
+    margin-top: 5%;
+    padding:2%;
+}
+.profilename{
+    background-color: salmon;
+    background: seagreen; 
+    border:black 2px solid;
+    padding-bottom:3% ;
+    margin-top: -1.5%;
+}
+.description{
+    border: black 2px solid;
+    background-color: yellowgreen;
+    padding-bottom:3%;
+margin-top: -1.5%;
+}
